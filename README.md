@@ -18,7 +18,10 @@ We like to print a lot of tall objects -- boat hulls, display models etc. and in
 - 4040 extrusions are used on the entire frame for rigidity.
 - You may want a new hot end so you can use bigger nozzles faster. I chose the Rapido.
 # BOM (only the changes from a 2.4r2 are listed)
-- Z chain -- I like the cheap, generic ones. [Amazon Link](https://www.amazon.com/gp/product/B08R1M9J2H/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)
+- Qty 1: Z chain -- I like the cheap, generic ones. [Amazon Link](https://www.amazon.com/gp/product/B08R1M9J2H/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)
+- Qty 4: 1M MGN9 Rails & Pillow Blocks [Robodigg MGN9-2H-1000](https://www.robotdigg.com/product/347/Custom-length-GCr15-MGN9,-MGN12-or-MGN15-Linear-Rail-n-Carriage)
+- Qty 4: Misumi 1180mm 4040 Extrusion (I use clear anodized because it is MUCH cheaper, black works too) [Misumi Link](https://us.misumi-ec.com/vona2/detail/110302684530/?HissuCode=HFS5-4040-1180)
+- Qty 8: Misumi HFS5-4040-470 470mm 4040 Extrusion (I use clear anodized because it is MUCH cheaper, black works too) [Misumi Linke](https://us.misumi-ec.com/vona2/detail/110302684530/?HissuCode=HFS5-4040-470)
 # Mods (optional)
 - Klicky
 - Sexbolt Z Endstop
