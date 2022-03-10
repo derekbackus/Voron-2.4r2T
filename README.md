@@ -11,6 +11,7 @@ We like to print a lot of tall objects -- boat hulls, display models etc. and in
 - 4040 rails will be used on the entire frame.
 # Coverting from an Existing Voron 2.4
 - If you have a Voron 2.4, upgrade to all the 2.4r2 parts while you are doing this project.
+- Follow the steps below for Converting from an Existing Voron 2.4r2
 # Converting from an Existing Voron 2.4r2
 - The gantry will be used, unchanged
 - The gantry wiring and XY endstop pod wiring will need to be re-run because it is longer.
