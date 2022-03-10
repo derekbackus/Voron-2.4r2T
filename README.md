@@ -22,6 +22,7 @@ We like to print a lot of tall objects -- boat hulls, display models etc. and in
 - Qty 4: 1M MGN9 Rails & Pillow Blocks [Robodigg MGN9-2H-1000](https://www.robotdigg.com/product/347/Custom-length-GCr15-MGN9,-MGN12-or-MGN15-Linear-Rail-n-Carriage)
 - Qty 4: Misumi 1180mm 4040 Extrusion (I use clear anodized because it is MUCH cheaper, black works too) [Misumi Link](https://us.misumi-ec.com/vona2/detail/110302684530/?HissuCode=HFS5-4040-1180)
 - Qty 8: Misumi HFS5-4040-470 470mm 4040 Extrusion (I use clear anodized because it is MUCH cheaper, black works too) [Misumi Link](https://us.misumi-ec.com/vona2/detail/110302684530/?HissuCode=HFS5-4040-470)
+- Lots and Lots: 20ga PTFE Wire [Remington Industries](https://www.remingtonindustries.com/)
 # Mods (optional)
 - Klicky
 - Sexbolt Z Endstop
