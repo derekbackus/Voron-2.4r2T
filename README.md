@@ -1,4 +1,4 @@
-![Voron 2.4R2T](/images/2.4r2T.png | width=300)
+![Voron 2.4R2T](/images/2.4r2T.png)
 # Voron-2.4r2T
 350X x 350Y x 950Z Voron 2.4r2 Tall
 # Why Build this Monster?
