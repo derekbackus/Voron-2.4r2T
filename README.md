@@ -1,3 +1,4 @@
+# fun
 <img src="/images/2.4r2T.png" height="300">
 ![](/images/2.4r2T.png)
 # Voron-2.4r2T
