@@ -3,7 +3,7 @@
 # Voron-2.4r2T
 350X x 350Y x 950Z Voron 2.4r2 Tall
 # Why Build this Monster?
-We like to print a lot of tall objects -- boat hulls, display models etc. and instead of printing them multiple 350mm tall pieces, I wanted to build a printer that could do this in one or two pieces.
+We like to print a lot of tall objects -- boat hulls, display models etc. and instead of printing them in multiple 350mm tall pieces, I wanted to build a printer that could do this in one or two pieces.
 # Design Objectives
 - Make a printer that reuses most, if not all of the standard Voron parts, but is as tall as possible.
 # Design Choices
