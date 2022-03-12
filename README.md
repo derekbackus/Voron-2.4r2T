@@ -26,8 +26,8 @@ We like to print a lot of tall objects -- boat hulls, display models etc. and in
 - Qty 4: 1M MGN9 Rails & Pillow Blocks [Robodigg MGN9-2H-1000](https://www.robotdigg.com/product/347/Custom-length-GCr15-MGN9,-MGN12-or-MGN15-Linear-Rail-n-Carriage)
 - Qty 4: Misumi 1180mm 4040 Extrusion (I use clear anodized because it is MUCH cheaper, black works too) [Misumi Link](https://us.misumi-ec.com/vona2/detail/110302684530/?HissuCode=HFS5-4040-1180). Please note: you will need to drill your own clearance holes for the hex key. This is easy with a 1/4" drill bit and the guide in the STL folder.
 - Qty 8: Misumi HFS5-4040-470 470mm 4040 Extrusion (I use clear anodized because it is MUCH cheaper, black works too) [Misumi Link](https://us.misumi-ec.com/vona2/detail/110302684530/?HissuCode=HFS5-4040-470). Plesae note: You will have to tap all the holes in this extrusion with an M5 tap. Use a pistol drill, tapping fluid and a new, sharp tap. Clamp the extrusion to a table because it likes to spin in you hand. This is easy, but be very careful -- you can break a tap. If you do break a tap, just break it off flat -- there are THREE other screws in each extursion to hold it -- which is plenty.
-- Qty 2: Misumi vertical door extrusions
-- Qty 3: Misumi horizontal door extrusions
+- Qty 2: Misumi 1088mm 2020 Extrusion HFS5-2020-1088 [Misumi Link](https://us.misumi-ec.com/vona2/detail/110302683830/?PNSearch=HFS5-2020-1088&HissuCode=HFS5-2020-1088&searchFlow=suggest2products&Keyword=HFS5-2020-1088) - vertical door extrusions
+- Qty 3: Misumi 424mm 2020 Extrusion HFS5-2020-424 [Misumi Link](https://us.misumi-ec.com/vona2/detail/110302683830/?PNSearch=HFS5-2020-424&HissuCode=HFS5-2020-424&searchFlow=suggest2products&Keyword=HFS5-2020-424) - horizontal door extrusions
 - Qty 9 Meters: 9mm Gates Belt [Fabreeko](https://www.fabreeko.com/products/gates-gt2-open-belt-ll-2gt-6-9-12-reinforced?variant=42466462761215)
 - Qty 2: Side panels
 - Qty 2: Door panels
