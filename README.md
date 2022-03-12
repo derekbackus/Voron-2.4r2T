@@ -6,14 +6,16 @@
 We like to print a lot of tall objects -- boat hulls, display models etc. and instead of printing them in multiple 350mm tall pieces, I wanted to build a printer that could do this in one or two pieces.
 # Design Objectives
 - Make a printer that reuses most, if not all of the standard Voron parts, but is as tall as possible.
-# Design Choices
+# Notes & Design Choices
 - 1000mm MGN9 rails were easy to get, so I used those for the Z rails. This makes the maximum print height about 900mm.
 - A 350X x 350Y Voron design will be used as parts are readily available including built plates, heaters, gantry rails, etc.
 - Coroplast will be used on the back and bottom -- laser cut to size.
+- The bottom panels and top panel are unchanged from the 2.4r2.
 - 4040 rails will be used on the entire frame.
 - 2020 rails will be used on the single door.
 - Clear anodized extrusions are about 1/2 the price so I used those.
 - Extrusions will be ordered without machining -- Misumi has a month lead time AND you can do it yourself with the ez drill jig I designd, a 1/4" drill bit and a 5mm tap.
+- I'm trying to figure out how to heat this chamber -- it's so huge. Ideas are: 1) add a plate above the gantry that moves with the gantry, keeping the heat in the bottom of the printer, 2) add a second built plate & heater, controlled exactly like the bed somewhere in the chamber.
 # Coverting from an Existing Voron 2.4
 - If you have a Voron 2.4, upgrade to all the 2.4r2 parts while you are doing this project.
 - Follow the steps below for Converting from an Existing Voron 2.4r2
@@ -44,7 +46,8 @@ We like to print a lot of tall objects -- boat hulls, display models etc. and in
 - A STEP file is in the CAD folder so you can see how things go together.
 - I created some tools to drill holes in the extrusion, etc. These are in the STL folder.
 # Mods (optional)
-- Klicky
-- Sexbolt Z Endstop
-- LED Enclosure Lights
-- BTTFT50 LCD
+- Klicky [Klicky Github](https://github.com/jlas1/Klicky-Probe)
+- Sexbolt Z Endstop [kb-3d.com Link](https://kb-3d.com/store/voron/301-hartk-sexbolt-z-endstop-mod-for-voron-v2-hardware-kit-1634072159749.html)
+- LED Enclosure Lights [Voron Github](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/LED_Holder)
+- PITFT50 LCD [kb-3d.com Link](https://kb-3d.com/store/controllers-displays-drivers/419-btt-pitft50-v20-5-inch-pi-lcd-touchscreen-display-1639871340640.html)
+- Qty 2. Nevermore filters [Nevermore Github](https://github.com/nevermore3d/Nevermore_Micro)
