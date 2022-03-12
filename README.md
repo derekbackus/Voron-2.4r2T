@@ -32,7 +32,7 @@ We like to print a lot of tall objects -- boat hulls, display models etc. and in
 - Qty 2: Side panels
 - Qty 2: Door panels
 - Qty 1: Back panel
-- Qty 4: 2020 hinges
+- Qty 4: 2020 hinges [Amazon Link](https://amazon.com/gp/product/B07NQ5WHW9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - Lots and Lots: 20ga PTFE Wire [Remington Industries](https://www.remingtonindustries.com/)
 # CAD Files
 - Panels are in the DXF folder. You can use these to get custom laser-cut panels or cut them youself. I use coroplast for the back and bottom panels and polycarbonate for the top, sides and front panels.
