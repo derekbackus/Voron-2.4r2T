@@ -7,7 +7,7 @@ We like to print a lot of tall objects -- boat hulls, display models etc. and in
 # Design Objectives
 - Make a printer that reuses most, if not all of the standard Voron parts, but is as tall as possible.
 # Design Choices
-- 1000mm MGN9 rails were easy to get, so I used those for the Z rails.
+- 1000mm MGN9 rails were easy to get, so I used those for the Z rails. This makes the maximum print height about 900mm.
 - A 350X x 350Y Voron design will be used as parts are readily available including built plates, heaters, gantry rails, etc.
 - Coroplast will be used on the back and bottom -- laser cut to size.
 - 4040 rails will be used on the entire frame.
