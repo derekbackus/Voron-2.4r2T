@@ -13,7 +13,7 @@ We like to print a lot of tall objects -- boat hulls, display models etc. and in
 - 4040 rails will be used on the entire frame.
 - 2020 rails will be used on the single door.
 - Clear anodized extrusions are about 1/2 the price so I used those.
-- Extrusions will be ordered without machining -- Misumi has a month lead time AND you can do it yourself with the ez drill jig I design, a 1/4" drill bit and a 5mm tap.
+- Extrusions will be ordered without machining -- Misumi has a month lead time AND you can do it yourself with the ez drill jig I designd, a 1/4" drill bit and a 5mm tap.
 # Coverting from an Existing Voron 2.4
 - If you have a Voron 2.4, upgrade to all the 2.4r2 parts while you are doing this project.
 - Follow the steps below for Converting from an Existing Voron 2.4r2
