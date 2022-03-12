@@ -2,6 +2,9 @@
 
 # Voron-2.4r2T
 350X x 350Y x 950Z Voron 2.4r2 Tall
+
+[3D CAD View]() - Expires 4/12/2022
+
 # Why Build this Monster?
 We like to print a lot of tall objects -- boat hulls, display models etc. and instead of printing them in multiple 350mm tall pieces, I wanted to build a printer that could do this in one or two pieces.
 # Design Objectives
