@@ -9,6 +9,9 @@
 We like to print a lot of tall objects -- boat hulls, display models etc. and instead of printing them in multiple 350mm tall pieces, I wanted to build a printer that could do this in one or two pieces.
 # Design Objectives
 - Make a printer that reuses most, if not all of the standard Voron parts, but is as tall as possible.
+# Videos
+- [Tapping 4040 Extrusion for Blind Joints](https://youtu.be/ohi948kkzv4)
+- [Drilling Clearance Holes in 4040 Extrusion for Blind Joings](https://youtu.be/enlHb-844ug)
 # Notes & Design Choices
 - 1000mm MGN9 rails were easy to get, so I used those for the Z rails. This makes the maximum print height about 900mm.
 - A 350X x 350Y Voron design will be used as parts are readily available including built plates, heaters, gantry rails, etc.
@@ -57,8 +60,5 @@ We like to print a lot of tall objects -- boat hulls, display models etc. and in
 - LED Enclosure Lights [Voron Github](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/LED_Holder)
 - PITFT50 LCD [kb-3d.com Link](https://kb-3d.com/store/controllers-displays-drivers/419-btt-pitft50-v20-5-inch-pi-lcd-touchscreen-display-1639871340640.html)
 - Qty 2. Nevermore filters [Nevermore Github](https://github.com/nevermore3d/Nevermore_Micro)
-# Videos
-- [Tapping 4040 Extrusion for Blind Joints](https://youtu.be/ohi948kkzv4)
-- [Drilling Clearance Holes in 4040 Extrusion for Blind Joings](https://youtu.be/enlHb-844ug)
 
 
