@@ -57,7 +57,7 @@ I've made some videos to demonstrate how to do some of the more complicated thin
 - Filtered_Inliet_Skirt - Removes the switch hole from the stock rear skirt.
 - Switch_Skirt - Moves the switch to the right, front.
 - MGN9_4040_Rail_Guide - Guide to align your MGN9 rails on the 4040 extrusion.
-- Panel_Mount - PITFT50 mount for the 4040 extrusion. Use this repo for the PITFT50 frame and my mount for the 4040 extrusion. [PITFT Frame](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/alanho/BTT_PITFT50_v2_Mount)
+- Panel_Mount - OPTIONAL - PITFT50 mount for the 4040 extrusion. Use this repo for the PITFT50 frame and my mount for the 4040 extrusion if you want to mount it to the front. You can also use the mount linked in the PITFT50 repo for undermount. [PITFT Frame](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/alanho/BTT_PITFT50_v2_Mount)
 # CAD Files
 - Panels are in the DXF folder. You can use these to get custom laser-cut panels or cut them youself. I use coroplast for the back and bottom panels and polycarbonate for the top, sides and front panels.
 - A STEP file is in the CAD folder so you can see how things go together.
