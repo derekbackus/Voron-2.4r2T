@@ -67,6 +67,6 @@ I've made some videos to demonstrate how to do some of the more complicated thin
 - LED Enclosure Lights [Voron Github](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/LED_Holder)
 - PITFT50 LCD [kb-3d.com Link](https://kb-3d.com/store/controllers-displays-drivers/419-btt-pitft50-v20-5-inch-pi-lcd-touchscreen-display-1639871340640.html)
 - Qty 2. Nevermore filters [Nevermore Github](https://github.com/nevermore3d/Nevermore_Micro)
-- I used 4 Z Rail Stops from the Trident Repo to prevent the Z pillow blocks from coming off the MGN9 rails. Trident/STLs/Z_Assembly/[a]_z_rail_stop_x3.stl
+- 4 Z Rail Stops from the Trident Repo to prevent the Z pillow blocks from coming off the MGN9 rails. Trident/STLs/Z_Assembly/[a]_z_rail_stop_x3.stl
 
 
