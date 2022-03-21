@@ -1,7 +1,7 @@
 <img src="/images/2.4r2T.png" height="300">
 
 # Voron-2.4r2T
-- 350X x 350Y x 950Z Voron 2.4r2 Tall.
+- 350X x 350Y x 920Z Voron 2.4r2 Tall.
 - Basically the 2.4r2T is a Voron 2.4r2 with 4040 extrusions that has a Z travel of 950mm. 
 
 Here's a 3D view of the printer. Unfortunately, Autodesk expires this every 30 days. If it's expired, let me know and I'll re-upload it.
@@ -11,6 +11,8 @@ Here's a 3D view of the printer. Unfortunately, Autodesk expires this every 30 d
 At my model shop [KiwiMill](https://www.kiwimill.com) we like to print a lot of tall objects -- boat hulls, display models etc. and instead of printing them in multiple 350mm tall pieces, I wanted to build a printer that could do this in one or two pieces. This is a production machine so I'm not trying to save on costs or skimp on anything. I chose 4040 because it was strong, easy to work with, rigid and, most importantly, fully compatible with the existing Voron 2.4r2 parts made for 2020 extrusions.
 # Design Objectives
 - Make a printer that reuses most, if not all of the standard Voron parts, but is as tall as possible. The machine should hold up to 24hr/day use and be as easy as possible to maintain and use. Just like the Voron 2.4r2, it should be able to easily print ABS as well as PLA and other materials that can be printed on a Voron. The chamber needs to have filters to clean the air to keep the VOCs out of the work area.
+# Current Issues
+- The bowden tube to the toolhead is so long it gets stuck on things and curles into the wrong places. I removed the tube and just have the raw filament going into the toolhead -- this works great, but I need to make some kind of guide for the top so it looks nice.
 # Videos
 I've made some videos to demonstrate how to do some of the more complicated things in this build.
 - [Tapping 4040 Extrusion for Blind Joints](https://youtu.be/ohi948kkzv4)
