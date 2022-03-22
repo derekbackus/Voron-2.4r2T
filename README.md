@@ -2,10 +2,10 @@
 
 # Voron-2.4r2T
 - 350X x 350Y x 920Z Voron 2.4r2 Tall.
-- Basically the 2.4r2T is a Voron 2.4r2 with 4040 extrusions that has a Z travel of 950mm. 
+- Basically the 2.4r2T is a Voron 2.4r2 with 4040 extrusions that has a Z travel of 920mm. 
 
 Here's a 3D view of the printer. Unfortunately, Autodesk expires this every 30 days. If it's expired, let me know and I'll re-upload it.
-[3D CAD View](https://bit.ly/3J8i0Tg) - Expires 4/12/2022
+[3D CAD View](https://autode.sk/3Ix8QP8) - Expires 4/22/2022
 
 # Why Build this Monster?
 At my model shop [KiwiMill](https://www.kiwimill.com) we like to print a lot of tall objects -- boat hulls, display models etc. and instead of printing them in multiple 350mm tall pieces, I wanted to build a printer that could do this in one or two pieces. This is a production machine so I'm not trying to save on costs or skimp on anything. I chose 4040 because it was strong, easy to work with, rigid and, most importantly, fully compatible with the existing Voron 2.4r2 parts made for 2020 extrusions.
@@ -18,7 +18,7 @@ I've made some videos to demonstrate how to do some of the more complicated thin
 - [Tapping 4040 Extrusion for Blind Joints](https://youtu.be/ohi948kkzv4)
 - [Drilling Clearance Holes in 4040 Extrusion for Blind Joings](https://youtu.be/enlHb-844ug)
 # Notes & Design Choices
-- 1000mm MGN9 rails were easy to get, so I used those for the Z rails. This makes the maximum print height about 950mm.
+- 1000mm MGN9 rails were easy to get, so I used those for the Z rails. This makes the maximum print height about 920mm.
 - A 350X x 350Y Voron design will be used as parts are readily available including built plates, heaters, gantry rails, etc.
 - Coroplast will be used on the back and bottom -- laser cut to size. Or maybe ACM. We've got a local supplier of ACM sheet and I've got a 4K laser cutter, so this may be a fun side project.
 - The bottom panels and top panel are unchanged from the 2.4r2.
